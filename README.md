@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BusinessCenralConsulting
+- 👋 Hi, I’m @BusinessCentralConsulting
 - 👀 I’m interested in sharing tips and trick with .al development for Business Central
 - 🌱 I’m currently learning as much as we can !
 - 💞️ I’m looking to collaborate on many projects including looking for developers that have control add-ins to market
